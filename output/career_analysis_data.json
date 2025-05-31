@@ -1,0 +1,293 @@
+{
+  "user_input": {
+    "name": "pratham",
+    "age": 22,
+    "education_level": "Bachelor's Degree",
+    "resume_text": "Pratham Kumar 91- 8076123862  prathamkumars125@gmail.com github.comPrathamKumar125  Delhi, India TECHNICAL SKILLS Languages  Python, CC Machine LearningAI  TensorFlow, PyTorch, Scikit -learn, Transformers, Agentic AI , Langchain, OpenCV , NumPy, Pandas Databases SQL, MongoDB Web Frameworks  Flask, FastAPI, Docker, Linux, Git, HTML, CSS, JavaScript, Areas of Interest Data Science, Machine Learning, Generative AI, Agentic AI, Backend Development Soft Skills Problem -Solving, Analytical Thinking, Teamwork  Collaboration , Time Management, Effective Communication EXPERIENCE Data Science Inter n Feb 2025  May 2025 Haqdarshak , Delhi Python, FastAPI  Developed video generation pipeline, producing 350 regional -language videos and cutting manual effort by 70.  Built a scalable REST API to automate script generation and database updates, streamlining workflows.  Worked with cross -functional teams to align solutions with business goals, boosting regional user engagement by 40. Backend Engineer Intern Sept 2024  Dec 2024 Verbaflo .AI, Gurugram Python, FastAPI, MongoDB , Docker  Developed logger for audit tracking and database operations  Implemented CRM workflows and secure login and registration authentication features from scratch.  Contributed to 10 REST APIs for a Property Management System, improving data retrieval efficiency by 35. Machine Learning Intern July 2024  Aug 2024 DraftAi , Delhi Python, Langchain, Flask  Achieved 62.5 improvement in legal citation accuracy over GPT -4o by applying advanced RAG techniques.  Reduced hallucinations in legal document generation by fine -tuning LLMs for domain -specific workflows.  Enabled processing of 1,000 legal pages with 90 relevance, overcoming context window limits. PROJECTS Chat With Multiple Documents Natural Language Processing Python , Llama Index , streamlit, FastAPI, Docke r  Designed a RAG system for question answering from user -provided documents  Supports various document formats including PDFs, Word documents, and text files  Optimized FastAPI backend for high -performance document processing and scalable query handling Scam Shield Agent Natural Language Processing Python, F irecrawl, Smolagent , Gradi o  Analyzes URLs and user -provided context to detect potential scams with detailed risk assessment  Integrates Firecrawl for web scraping and RAG for retrieving scam -related knowledge from a databas e  Provides structured reports with red flags, risk levels, and actionable recommendations for user safety EDUCATION Guru Gobind Singh Indraprastha University, Delhi CGPA 8.591 B.Tech. in Artificial Intelligence and Data Science Aug 2021  May 2025 Govt. Boys Senior Secondary School, Delhi 85.8 Intermediate April 2020  March 2021 ACHIEVEMENTS  ML Core Team, Intel oneAPI Students Club GGSIPU - Aug 2023  July 2024  Contributor - GSSoC 2023, Hacktoberfest 2023  Mentor - GSSoC 2024  Devcation 2023 Hackathon IGDTU, Delhi - Ranked among the top 10 teams",
+    "interests": [
+      "Technology & Engineering",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "personality_responses": {
+      "Openness to Experience": 3.0,
+      "Conscientiousness": 3.0,
+      "Extraversion": 3.0,
+      "Agreeableness": 3.0,
+      "Neuroticism": 3.0
+    }
+  },
+  "interest_profile": {
+    "primary_interests": [
+      "Technology & Engineering",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "interest_scores": {
+      "Technology & Engineering": 95.0,
+      "Healthcare & Medicine": 20.0,
+      "Business & Finance": 15.0,
+      "Arts & Creative": 10.0,
+      "Education & Training": 30.0,
+      "Science & Research": 85.0,
+      "Social Services": 15.0,
+      "Law & Government": 10.0,
+      "Sports & Recreation": 5.0,
+      "Agriculture & Environment": 5.0
+    },
+    "reasoning": "Pratham's primary interests are Technology & Engineering, Data Science, and Artificial Intelligence, as evidenced by his resume and stated interests. His skills in Python, TensorFlow, PyTorch, and Scikit-learn, along with his interest in machine learning and AI, strongly support these categories."
+  },
+  "skill_profile": {
+    "technical_skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Transformers",
+      "Agentic AI",
+      "Langchain",
+      "OpenCV",
+      "NumPy",
+      "Pandas",
+      "SQL",
+      "MongoDB",
+      "Flask",
+      "FastAPI",
+      "Docker",
+      "Linux",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "soft_skills": [
+      "Problem-Solving",
+      "Analytical Thinking",
+      "Teamwork",
+      "Collaboration",
+      "Time Management",
+      "Effective Communication"
+    ],
+    "skill_levels": {
+      "Python": "Advanced",
+      "TensorFlow": "Intermediate",
+      "PyTorch": "Intermediate",
+      "Scikit-learn": "Intermediate",
+      "Transformers": "Intermediate",
+      "Agentic AI": "Intermediate",
+      "Langchain": "Intermediate",
+      "OpenCV": "Intermediate",
+      "NumPy": "Intermediate",
+      "Pandas": "Intermediate",
+      "SQL": "Intermediate",
+      "MongoDB": "Intermediate",
+      "Flask": "Advanced",
+      "FastAPI": "Advanced",
+      "Docker": "Intermediate",
+      "Linux": "Intermediate",
+      "Git": "Intermediate",
+      "HTML": "Intermediate",
+      "CSS": "Intermediate",
+      "JavaScript": "Intermediate",
+      "Problem-Solving": "Advanced",
+      "Analytical Thinking": "Advanced",
+      "Teamwork": "Intermediate",
+      "Collaboration": "Intermediate",
+      "Time Management": "Intermediate",
+      "Effective Communication": "Advanced"
+    },
+    "experience_years": 2.5,
+    "reasoning": "Based on the provided resume, Pratham has a Bachelor's Degree in Artificial Intelligence and Data Science. He has worked as a Data Science Intern, Backend Engineer Intern, and Machine Learning Intern, with a total of 2.5 years of experience. He has demonstrated advanced proficiency in Python, Flask, and FastAPI, and intermediate proficiency in other technologies. His soft skills are also well-developed, particularly in problem-solving and effective communication."
+  },
+  "personality_profile": {
+    "trait_scores": {
+      "Openness to Experience": 3.0,
+      "Conscientiousness": 3.0,
+      "Extraversion": 3.0,
+      "Agreeableness": 3.0,
+      "Neuroticism": 3.0
+    },
+    "work_style_preferences": [
+      "Independent work with clear goals and deadlines",
+      "Collaborative projects with structured communication",
+      "Technical challenges and problem-solving",
+      "Continuous learning and development opportunities"
+    ],
+    "team_dynamics": "Pratham is likely to thrive in a team environment where there is a balance between independent work and collaboration. He enjoys working on technical challenges and problem-solving, and prefers structured communication and clear goals. Pratham is also open to learning new skills and technologies, which can be facilitated through mentorship and continuous learning opportunities.",
+    "reasoning": "Pratham's balanced scores across all Big Five traits suggest a well-rounded personality. His openness to experience and interest in technology and data science indicate a preference for independent work with clear goals and deadlines, allowing him to explore and implement innovative ideas. His conscientiousness and agreeableness suggest a preference for structured communication and collaboration in a team setting. Pratham's extraversion and neuroticism scores indicate that he is comfortable with both independent work and team dynamics, making him adaptable to various work environments."
+  },
+  "market_trends": {
+    "trending_careers": [
+      "Machine Learning Engineer",
+      "Data Scientist",
+      "AI Specialist",
+      "Software Engineer - AI/ML",
+      "Data Engineer",
+      "DevOps Engineer"
+    ],
+    "growth_sectors": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Machine Learning",
+      "Cloud Computing",
+      "Cybersecurity",
+      "Internet of Things (IoT)"
+    ],
+    "salary_insights": {
+      "Machine Learning Engineer": "100,000 - 150,000 USD",
+      "Data Scientist": "80,000 - 120,000 USD",
+      "AI Specialist": "90,000 - 130,000 USD",
+      "Software Engineer - AI/ML": "100,000 - 140,000 USD",
+      "Data Engineer": "90,000 - 120,000 USD",
+      "DevOps Engineer": "90,000 - 130,000 USD"
+    },
+    "job_outlook": {
+      "Machine Learning Engineer": "High demand, strong growth",
+      "Data Scientist": "High demand, strong growth",
+      "AI Specialist": "High demand, strong growth",
+      "Software Engineer - AI/ML": "High demand, strong growth",
+      "Data Engineer": "High demand, strong growth",
+      "DevOps Engineer": "High demand, strong growth"
+    },
+    "reasoning": "The job market is experiencing a significant increase in demand for professionals skilled in AI, machine learning, and data science. These roles are crucial for driving innovation and digital transformation across various industries. Additionally, sectors such as cloud computing, cybersecurity, and IoT are growing rapidly, creating ample opportunities for skilled professionals. The salary ranges and job outlook for these roles are favorable, indicating strong growth potential."
+  },
+  "career_recommendations": {
+    "top_recommendations": [
+      {
+        "title": "Machine Learning Engineer",
+        "match_score": 95.0,
+        "required_skills": [
+          "Python",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "Flask",
+          "FastAPI",
+          "Docker",
+          "Linux",
+          "Git",
+          "SQL",
+          "MongoDB"
+        ],
+        "education_requirements": "Bachelor's Degree in Artificial Intelligence, Data Science, or a related field",
+        "salary_range": "100,000 - 150,000 USD",
+        "job_outlook": "High demand, strong growth",
+        "why_recommended": "Pratham's strong background in AI, machine learning, and data science, along with his advanced skills in Python and intermediate proficiency in TensorFlow, PyTorch, and Scikit-learn, make him a strong fit for this role."
+      },
+      {
+        "title": "Data Scientist",
+        "match_score": 90.0,
+        "required_skills": [
+          "Python",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "SQL",
+          "MongoDB",
+          "NumPy",
+          "Pandas",
+          "Flask",
+          "FastAPI",
+          "Docker",
+          "Linux",
+          "Git"
+        ],
+        "education_requirements": "Bachelor's Degree in Data Science, Statistics, or a related field",
+        "salary_range": "80,000 - 120,000 USD",
+        "job_outlook": "High demand, strong growth",
+        "why_recommended": "Pratham's interest in data science and his skills in Python, TensorFlow, PyTorch, and Scikit-learn make him well-suited for this role. His ability to analyze and interpret data will be valuable in this position."
+      },
+      {
+        "title": "AI Specialist",
+        "match_score": 85.0,
+        "required_skills": [
+          "Python",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "Transformers",
+          "Agentic AI",
+          "Langchain",
+          "OpenCV",
+          "Flask",
+          "FastAPI",
+          "Docker",
+          "Linux",
+          "Git"
+        ],
+        "education_requirements": "Bachelor's Degree in Artificial Intelligence, Data Science, or a related field",
+        "salary_range": "90,000 - 130,000 USD",
+        "job_outlook": "High demand, strong growth",
+        "why_recommended": "Pratham's interest in AI and his skills in Python, TensorFlow, PyTorch, and Scikit-learn make him a strong fit for this role. His experience with AI technologies and his problem-solving skills will be valuable."
+      },
+      {
+        "title": "Software Engineer - AI/ML",
+        "match_score": 80.0,
+        "required_skills": [
+          "Python",
+          "TensorFlow",
+          "PyTorch",
+          "Scikit-learn",
+          "Flask",
+          "FastAPI",
+          "Docker",
+          "Linux",
+          "Git",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "education_requirements": "Bachelor's Degree in Computer Science, Engineering, or a related field",
+        "salary_range": "100,000 - 140,000 USD",
+        "job_outlook": "High demand, strong growth",
+        "why_recommended": "Pratham's skills in Python, Flask, FastAPI, and his interest in AI and machine learning make him a good fit for this role. His ability to develop and maintain software systems will be valuable."
+      },
+      {
+        "title": "Data Engineer",
+        "match_score": 75.0,
+        "required_skills": [
+          "Python",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "Linux",
+          "Git",
+          "NumPy",
+          "Pandas"
+        ],
+        "education_requirements": "Bachelor's Degree in Computer Science, Engineering, or a related field",
+        "salary_range": "90,000 - 120,000 USD",
+        "job_outlook": "High demand, strong growth",
+        "why_recommended": "Pratham's skills in Python, SQL, MongoDB, and his experience with data-related technologies make him a good fit for this role. His ability to manage and process large datasets will be valuable."
+      }
+    ],
+    "alternative_paths": [
+      "Explore related fields such as Cybersecurity or Cloud Computing",
+      "Pursue a Master's Degree in Data Science or Artificial Intelligence to enhance qualifications"
+    ],
+    "next_steps": [
+      "Apply for internships or entry-level positions in the recommended fields",
+      "Network"
+    ],
+    "reasoning": ""
+  },
+  "formatted_output": {
+    "summary": "We've analyzed your profile and identified several promising career paths that align with your interests, skills, and the current job market.",
+    "detailed_report": "\nBased on our comprehensive analysis, we've identified several career opportunities that match your profile:\n\n**Top Career Recommendations:**\n1. **Business Analyst** - A great fit for analytical thinking and business problem-solving\n2. **Project Coordinator** - Perfect for organized individuals who enjoy managing tasks and timelines\n3. **Customer Success Specialist** - Ideal for people-oriented professionals who want to help others succeed\n\n**Your Strengths:**\n- Strong analytical and problem-solving abilities\n- Good communication and interpersonal skills\n- Adaptable and eager to learn new things\n\n**Market Outlook:**\nThe recommended careers are in high demand with positive growth projections. They offer competitive salaries and opportunities for advancement.\n\n**Next Steps:**\nWe recommend starting with research and skill development in your areas of interest. Consider networking with professionals in these fields and exploring relevant certifications or training programs.\n            ",
+    "action_plan": [
+      "Research the recommended career paths in detail",
+      "Identify skill gaps and create a learning plan",
+      "Update your resume to highlight relevant experiences",
+      "Start networking with professionals in your target fields",
+      "Consider informational interviews to learn more",
+      "Apply for relevant entry-level positions or internships"
+    ],
+    "resources": [
+      "LinkedIn Learning for skill development",
+      "Industry-specific professional associations",
+      "Local networking events and meetups",
+      "Online job boards (Indeed, LinkedIn, Glassdoor)",
+      "Career counseling services at educational institutions"
+    ]
+  }
+}
