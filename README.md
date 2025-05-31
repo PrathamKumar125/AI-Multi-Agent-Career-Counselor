@@ -2,7 +2,12 @@
 
 A sophisticated multi-agent system that provides personalized career guidance through specialized AI agents. This system leverages the power of multiple AI agents working collaboratively to analyze user profiles and deliver comprehensive career recommendations.
 
+https://github.com/user-attachments/assets/cc692d7d-fa13-4ef0-9005-1c7dd381ec76
+
 ## Live Demo
+
+
+
 
 **Try the application now:** [AI Multi-Agent Career Counselor on Hugging Face Spaces](https://huggingface.co/spaces/pratham0011/AI-Multi-Agent-Career-Counselor)
 
@@ -39,7 +44,7 @@ The AI Multi-Agent Career Counselor is an intelligent career guidance system tha
 - **Visual Analytics**: Charts and graphs displaying career match scores and insights
 - **Detailed Reporting**: Downloadable reports in both text and JSON formats
 - **Fallback Mechanisms**: Robust error handling with fallback responses for reliable operation
-- **🌐 Live Deployment**: Available on Hugging Face Spaces for immediate access
+- **Live Deployment**: Available on Hugging Face Spaces for immediate access
 
 ## Agent Interactions and Workflow
 
@@ -191,7 +196,7 @@ We currently use **Mistral's ministral-8b-latest** as our free-tier option:
 ## Setup and Run Instructions
 
 ### Option 1: Use the Live Demo (Recommended)
-**🎯 Quickest Way to Get Started:**
+**Quickest Way to Get Started:**
 Visit the [live deployment on Hugging Face Spaces](https://huggingface.co/spaces/pratham0011/AI-Multi-Agent-Career-Counselor) - no installation required!
 
 ### Option 2: Local Installation
